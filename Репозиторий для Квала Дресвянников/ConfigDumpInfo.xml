@@ -16,8 +16,8 @@
 			<Metadata name="Document.РасчетСПокупателем.TabularSection.Товары.Attribute.Цена" id="fb2bfed8-9369-4028-9a8a-f7732e3f9639"/>
 			<Metadata name="Document.РасчетСПокупателем.TabularSection.Товары.Attribute.НДС" id="fffa8891-57d1-4115-a4e2-cee3a78d81ce"/>
 		</Metadata>
-		<Metadata name="Document.РасчетСПокупателем.Form.ФормаДокумента" id="bed6570f-b7ce-4f5f-bb78-38f27cc495f4" configVersion="7fe470d7a90cff4abee3452e4234312c00000000"/>
-		<Metadata name="Document.РасчетСПокупателем.Form.ФормаДокумента.Form" id="bed6570f-b7ce-4f5f-bb78-38f27cc495f4.0" configVersion="74c4caccc8a35049bae73d79aea34f3800000000"/>
+		<Metadata name="Document.РасчетСПокупателем.Form.ФормаДокумента" id="bed6570f-b7ce-4f5f-bb78-38f27cc495f4" configVersion="529ed5eae47d09498bca1ea092f0341800000000"/>
+		<Metadata name="Document.РасчетСПокупателем.Form.ФормаДокумента.Form" id="bed6570f-b7ce-4f5f-bb78-38f27cc495f4.0" configVersion="005c9d6b3fbf6a41a1d126211c8ab65f00000000"/>
 		<Metadata name="Language.Русский" id="68c19ba8-cd1e-4017-a00f-062e97345cd9" configVersion="bf11780aaa286d4e8e6c5f25384adab900000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
