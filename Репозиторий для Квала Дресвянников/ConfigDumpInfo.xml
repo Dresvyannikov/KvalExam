@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.13">
+	<ConfigVersions>
+		<Metadata name="Catalog.Номенклатура" id="ac644b8b-d5c8-4940-89a4-1a7a50ab7e73" configVersion="5e70cd3579f97b4f92de2c0b062f26e100000000"/>
+		<Metadata name="Configuration.Конфигурация" id="382720bd-cefd-432c-bb3b-df39a7b814e9" configVersion="200c751beaf6ec499e0b54554e0436b000000000"/>
+		<Metadata name="Constant.ПроцентНДС" id="2b48c724-1a5f-4ab5-b409-6ece9b4cacb4" configVersion="1da7e07f30392548ab9bc64e6e9b744c00000000"/>
+		<Metadata name="Document.РасчетСПокупателем" id="c53edb05-cf92-4ecd-9cf3-24f8249f58a0" configVersion="c0b477f01bc54041ab01d2e6b867749200000000">
+			<Metadata name="Document.РасчетСПокупателем.TabularSection.Товары.Attribute.Сумма" id="2d52516f-fe33-439b-b0e2-54e468b62a97"/>
+			<Metadata name="Document.РасчетСПокупателем.Attribute.СуммаСНДС" id="32d75d6b-de92-4a95-99f6-d6d97cd60958"/>
+			<Metadata name="Document.РасчетСПокупателем.TabularSection.Товары.Attribute.Количество" id="4a9642b0-e1c9-40ce-8395-a8411629a7a0"/>
+			<Metadata name="Document.РасчетСПокупателем.TabularSection.Товары.Attribute.Номенклатура" id="5bf18b99-ec92-493a-ab08-e28394a401e7"/>
+			<Metadata name="Document.РасчетСПокупателем.TabularSection.Товары.Attribute.СуммаСНДС" id="92be2a67-f9b4-4653-bbb4-9ae21f452186"/>
+			<Metadata name="Document.РасчетСПокупателем.Attribute.НДС" id="a466f837-c21b-4de0-999c-3d7e503263a1"/>
+			<Metadata name="Document.РасчетСПокупателем.Attribute.ОбщаяСуммаДоНдс" id="a7457f5d-fcda-4750-b029-42f478cf706e"/>
+			<Metadata name="Document.РасчетСПокупателем.TabularSection.Товары" id="bd322e3d-eda3-4d58-a1ad-89aa28a380e4"/>
+			<Metadata name="Document.РасчетСПокупателем.TabularSection.Товары.Attribute.Цена" id="fb2bfed8-9369-4028-9a8a-f7732e3f9639"/>
+			<Metadata name="Document.РасчетСПокупателем.TabularSection.Товары.Attribute.НДС" id="fffa8891-57d1-4115-a4e2-cee3a78d81ce"/>
+		</Metadata>
+		<Metadata name="Document.РасчетСПокупателем.Form.ФормаДокумента" id="bed6570f-b7ce-4f5f-bb78-38f27cc495f4" configVersion="7fe470d7a90cff4abee3452e4234312c00000000"/>
+		<Metadata name="Document.РасчетСПокупателем.Form.ФормаДокумента.Form" id="bed6570f-b7ce-4f5f-bb78-38f27cc495f4.0" configVersion="74c4caccc8a35049bae73d79aea34f3800000000"/>
+		<Metadata name="Language.Русский" id="68c19ba8-cd1e-4017-a00f-062e97345cd9" configVersion="bf11780aaa286d4e8e6c5f25384adab900000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
